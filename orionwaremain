@@ -1,9 +1,3 @@
-if game.PlaceId == 12533464732 then       
-       
-       player:Kick("UltimateWraith works here piss off")
-    end
-end)
-
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
