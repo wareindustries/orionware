@@ -1,6 +1,5 @@
 rconsoleprint('@@RED@@')
 rconsoleprint('Ware Industries Succesfully Loaded...')
-rconsoleprint('Updates Halted.')
 
 
 
