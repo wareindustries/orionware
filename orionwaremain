@@ -1,5 +1,3 @@
-add this ID to the code for me 17493213
-
 local AdminPrefix = ";" -- Change this to what you want (i.e: ;kill <namehere>) (if its blank it will error)
 local Players = game:GetService("Players")
 local LocalP = Players.LocalPlayer;
