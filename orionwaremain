@@ -1,7 +1,3 @@
-if game.Players.LocalPlayer.Name == "DarkNiteBoy1612" then
-    plr:Kick("No Fake People Allowed!")
-end
-
 local AdminPrefix = ";"
 local Players = game:GetService("Players")
 local LocalP = Players.LocalPlayer
